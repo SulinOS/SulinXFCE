@@ -1,11 +1,12 @@
 <INARY>
     <SourceName>Sulin</SourceName>
     <Version>2019</Version>
-    <Description xml:lang="tr">Sulin 2019 LXDE Masaüstü Deposu</Description>
-    <Description xml:lang="az">Sulin 2019 LXDE Anbari</Description>
-    <Description xml:lang="en">Sulin 2019 LXDE Repository</Description>
-    <Description xml:lang="es">Sulin 2019 LXDE Repositorio</Description>
-    <Description xml:lang="nl">Sulin 2019 LXDE Opslagplaats</Description>
-    <Type>LXDE</Type>
+    <Description xml:lang="tr">Sulin 2019 XFCE4 Masaüstü Deposu</Description>
+    <Description xml:lang="az">Sulin 2019 XFCE4 Anbari</Description>
+    <Description xml:lang="en">Sulin 2019 XFCE4 Repository</Description>
+    <Description xml:lang="de">Sulin 2019 XFCE4 desktop-repository</Description>
+    <Description xml:lang="fr">Sulin 2019 xfce4 dépôt bureautique</Description>
+    <Description xml:lang="ru">Sulin 2019 xfce4 настольное хранилище</Description>
+    <Type>XFCE</Type>
     <BinaryName>Sulin</BinaryName>
 </INARY>

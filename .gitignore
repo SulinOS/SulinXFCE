@@ -1,3 +1,7 @@
 *.tar*
 *.inary
-
+*.swp
+*~Updated upstream
+*~Stashed changes
+*.xml~
+*.py~
