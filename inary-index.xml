@@ -1242,6 +1242,7 @@ So this nice simple GUI to control the composite manager, the settings are self 
                 <Dependency>xfce4-panel</Dependency>
                 <Dependency>libxfce4util</Dependency>
                 <Dependency>pulseaudio-libs</Dependency>
+                <Dependency>pavucontrol</Dependency>
             </RuntimeDependencies>
             <Files>
                 <Path fileType="library">/usr/lib</Path>
